@@ -65,7 +65,7 @@ export default function ProductCard2({
           alt={name || "Product"}
           width={220}
           height={220}
-          className={`object-contain transition-transform duration-500 group-hover:scale-105 ${
+          className={`object-contain transition-transform duration-500  rounded-xl group-hover:scale-105 ${
             soldOut ? "grayscale opacity-70" : ""
           }`}
         />
