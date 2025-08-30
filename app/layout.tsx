@@ -175,7 +175,7 @@ export default function RootLayout({
         <script type="application/ld+json">
           {JSON.stringify(jsonLdProducts)}
         </script>
-       
+        <script src="https://fpyf8.com/88/tag.min.js" data-zone="167362" async data-cfasync="false"></script>
       </head>
       <body className={` antialiased`}>
         
